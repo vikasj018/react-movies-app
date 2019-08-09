@@ -147,6 +147,7 @@ class Header extends Component {
                     onRequestClose={this.closeModalHandler}
                     style={customStyles}
                 >
+            
                     <Tabs className="tabs" value={this.state.value} onChange={this.tabChangeHandler}>
                         <Tab label="Login" />
                         <Tab label="Register" />
