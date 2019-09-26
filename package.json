@@ -8,6 +8,7 @@
     "react-dom": "^16.5.0",
     "react-modal": "^3.9.1",
     "react-scripts": "^1.1.5",
+    "react-youtube": "^7.9.0",
     "typeface-roboto": "0.0.75"
   },
   "scripts": {
